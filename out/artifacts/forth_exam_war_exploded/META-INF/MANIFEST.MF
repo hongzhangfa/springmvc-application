@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: lenovo
+Build-Jdk: Oracle OpenJDK version 1.8.0_251
+Implementation-Title: forth-exam
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.hzfmvc
+Main-Class: ${start-class}
+
